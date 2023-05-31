@@ -7,5 +7,4 @@
 - 박보검
 
 ## 참고사이트
-- www.github.com
-- 
+- www.github.co
